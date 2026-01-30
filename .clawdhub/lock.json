@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "clawd-docs-v2": {
+      "version": "2.0.0",
+      "installedAt": 1769141787897
+    },
+    "model-router": {
+      "version": "1.1.0",
+      "installedAt": 1769407218940
+    }
+  }
+}
